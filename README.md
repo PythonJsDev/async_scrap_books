@@ -3,12 +3,7 @@
 
 ># Installation : 
 1. Télécharger depuis GitHub l'ensemble des fichiers fichiers. 
-2. Dans un environnement virtuel, installer les packages: requests, lxml, BeautifulSoup et httpx     
-commandes:    
-`pip install requests`,   
-`pip install lxml`,   
-`pip install beautifulsoup4`,   
-`pip install httpx`
+2. Dans un environnement virtuel, installer les packages nécessaires avec la commande: `pip install -r requirements.txt`
 
 ># Exécution :
 - Pour lancer le programme taper la commande: `python async_scrap.py` 
